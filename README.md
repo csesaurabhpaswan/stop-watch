@@ -22,5 +22,5 @@ Saurabh Paswan - csesaurabhpaswan
 
 Project Link: https://github.com/csesaurabhpaswan/stop-watch
 
-Live Demo : https://github.com/csesaurabhpaswan/stop-watch/
+Your site is live at https://csesaurabhpaswan.github.io/stop-watch/
 
